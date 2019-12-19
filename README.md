@@ -100,7 +100,7 @@ Contributers:
 ==========
 <table>
   <tr>
-    <td align="center"><img src="https://avatars2.githubusercontent.com/u/25424994?s=460&v=4" width="100px;" alt="Fanxuan Guo"/><br /><sub><b>Fanxuan Guo</b></sub></a><br />👀📖</td>
-    <td align="center"><img src="https://avatars0.githubusercontent.com/u/44177295?s=400&v=4" width="100px;" alt="Shiqi Lin"/><br /><sub><b>Shiqi Lin</b></sub></a><br />📦💡</td>
+    <td align="center"><a href="https://github.com/ShirSherbet"><img src="https://avatars2.githubusercontent.com/u/25424994?s=460&v=4" width="100px;" alt="Fanxuan Guo"/><br /><sub><b>Fanxuan Guo</b></sub></a><br />👀📖</td>
+    <td align="center"><a href="https://github.com/Evvvvvvvva"><img src="https://avatars1.githubusercontent.com/u/44177295?s=460&v=4" width="100px;" alt="Shiqi Lin"/><br /><sub><b>Shiqi Lin</b></sub></a><br />📦💡</td>
    </tr>
 </table>
